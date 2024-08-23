@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sto giocando a play.secretmc.it"];
+const statusMessages = ["Sto Guardando Inside|NetWork"];
 
 
 let currentIndex = 0;
